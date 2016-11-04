@@ -79,7 +79,7 @@ h1 {
    float: left;
    height: 200px;
    position: relative;
-   width: 99%;
+  
  
   }
   .col-md-1 {
@@ -117,8 +117,10 @@ h1 {
   }
   .col-md-12 {
     width: 100%;
+    width:840px;
   }
 }
+
 
 /*Mobile*/
 @media (max-width: 767px) {
